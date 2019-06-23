@@ -14,6 +14,6 @@ SIMH project.  There are still some open points which are briefly described in t
 decoders MFM_gap_DECODER_V1_0.v and CL_my_MFM_DEcoder_V1_0.v. At the moment I don't have the possibility for        
 further analyze this problem in the DEC environment because I do not have the necessary vintage hardware      
 and also not the necessary environment around. Maybe there will be cooperation. Any hint is welcome.                             
-An exact problem description is in the file MFM_debug.pdf
+A detailed description with hints and explanations of the open points is in the file MFM_debug.pdf
 
  
