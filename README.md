@@ -14,6 +14,6 @@ There are still some open points which are briefly described in the sources of t
 MFM_gap_DECODER_V1_0.v and CL_my_MFM_DEcoder_V1_0.v. At the moment I don't have the possibility for        
 further analyze this problem in the DEC environment because I do not have the necessary vintage hardware      
 and also not the necessary environment around. Maybe there will be cooperation. Any hint is welcome.                             
-A detailed description with hints and explanations, open points+solutions is in the file MFM_debug.pdf
+A detailed description with hints and explanations, open points+solutions is in the document MFM_debug.pdf
 
  
