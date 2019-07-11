@@ -5,8 +5,6 @@
 This is a new follow-up project from the RL01 / RL02 disk emulator, also based on SoC/HPS             
 environment with the DE10-Nano board: https://github.com/pdp11gy/SoC-HPS-based-RL-disk-emulator .          
 It is based on the DE10-Nano with a different I/O interface. Details on my homepage, www.pdp11gy.com    
-After extracting the file MFM-disk_Emulator_SoC.zip, you will find all sources. It's also based on
-Quartus Version 16.1.                                                        
 **Please note , this project is in the beta state**                                                                                     
 The project provides real time decoding and encoding. As with theRL01/RL02 emulator, it is intended to                
 save the data in an .dsk file to be also compatible with the SIMH project.                                                       
