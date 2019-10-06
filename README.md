@@ -10,7 +10,7 @@ The project provides real time decoding and encoding. As with the RL01/RL02 emul
 intended to save the data in an .dsk file to be also compatible with the SIMH project.                                                                                  
 Currently, it is possible to read a complete disk, one cylinder or one treck. The real time decoder                 
 is also able to provide MFM gap recording. This is necessary in emulator mode because the former disk                           
-manufacturers did always use a different one servo/header format ( At low level format ).                                  
+manufacturers did always use a different servo/header format ( At low level format ).                                                                  
 The emulater saves the data in a .mfm file which contains the decoded data with all servo/header                       
 information. The raw data will be saved in a .dsk format to be also SIMH-compatible. Additionally,                       
 the MFM-gaps are stored in a .gap file for the emulator mode. More details on my homepage + user manual.                               
