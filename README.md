@@ -17,7 +17,7 @@ the MFM-gaps are stored in a .gap file for the emulator mode. More details on my
 A detailed description with hints and explanations, open points+solutions is in the document MFM_debug.pdf                   
 At the moment I don't have the possibility for further analyze this problem in the DEC environment              
 because I do not have the necessary vintage hardware and also not the necessary environment around.           
-Unfortunately, I also do not have an up and running  MFM-disk based PC at the moment.
+Unfortunately, I also do not have an up and running  MFM-disk based PC at the moment.                                           
 **Further development and remarks**                                                                           
 In this project, the disk data are stored in a file, such as diskinfo_1. The number of revolutions(RPM),               
 =index frequency of the disk is detected automatically. Maybe someone can get data from another disc                           
