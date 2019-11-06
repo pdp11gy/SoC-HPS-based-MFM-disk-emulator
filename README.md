@@ -21,9 +21,8 @@ Unfortunately, I also do not have an up and running  MFM-disk based PC at the mo
 **Further development and remarks**                                                                           
 In this project, the disk data are stored in a file, such as diskinfo_1. The number of revolutions(RPM),               
 =index frequency of the disk is detected automatically. Maybe someone can get data from another                                                   
-disc and edit a corresponding disk file. 16 (0 to F) disk files can be used.                                                         
-Furthermore, it is planned to bring both interfaces together like in the overview.pdf dokument.                               
-Additionally I want to integrate a 5-1/4 floppy interface and 4 serial line units.                                                                           
-Maybe someone wants to participate or has references if that has ever been realized ? 
+disk and edit a corresponding disk file. 16 (0 to F) disk files can be used.                                                         
+Furthermore, it is planned to bring both interfaces together like in the overview.pdf dokument.                            
+Details will be published on my homepage, www.pdp11gy.com
 
  
