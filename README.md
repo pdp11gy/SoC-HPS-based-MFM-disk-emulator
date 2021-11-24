@@ -23,6 +23,7 @@ In this project, the disk data are stored in a file, such as diskinfo_1. The num
 =index frequency of the disk is detected automatically. Maybe someone can get data from another                                                   
 disk and edit a corresponding disk file. 16 (0 to F) disk files can be used.                                                         
 Furthermore, it is planned to bring both interfaces together like in the overview.pdf dokument.                            
+A full, ready for use configured SD-card-image for the DE10-Nano Board is also available.                                                           
 Details will be published on my homepage, www.pdp11gy.com
 
  
